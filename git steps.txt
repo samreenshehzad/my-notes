@@ -1,0 +1,38 @@
+
+--------------------------------------------
+how to push changes from VS code to Github
+--------------------------------------------
+
+1. perform your changes in already checked out repo
+
+2. go to source control tab (click from left side bar)
+
+3. stag all the changes: click plus "+" button next to "CHANGES" heading, it appears when you mouseover
+
+4. commit your staged changes: click check ? symbol, next to "SOURCE CONTROL" on top
+
+6. provide the commit message: just mention what changes you have done
+
+7. push your changes: click three dots "..." next to source control and then click on "push"
+
+
+--------------------------------------------------
+how to clone a repo from Github to your computer
+--------------------------------------------------
+
+1. go to that repository from the browser
+
+2. find the green "clone and download" button
+
+3. copy the link of repository 
+
+4. open command promp (search from windows mennu)
+
+5. write "cd desktop" and press enter
+
+6. write "git clone" space and then paste the link of repo which we copied in step number 3. and press enter
+
+7. a new forlder will appear on your desktop. folder name will be same as your repository name
+
+8. now you can open this folder in VS code: In VS code "file -> close folder" and then "file -> open folder" 
+
